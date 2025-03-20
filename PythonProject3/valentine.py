@@ -47,7 +47,7 @@ def main():
     st.subheader("Quen em anh vui lắm luôn á. Cúa gì phải nói anh nghe không được giấu nghe chưa skibidi.")
     st.subheader("Ngoan anh mới thương nha. Yêu em nhiều :3")
 
-    st.write("From Sibidi with luv!")
+    st.write("Si that vong lam")
 
 
 if __name__ == "__main__":
